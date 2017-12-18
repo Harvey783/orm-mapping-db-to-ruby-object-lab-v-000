@@ -85,3 +85,4 @@ def self.students_below_12th_grade
     self.new_from_db(row)
   end
 end
+end
